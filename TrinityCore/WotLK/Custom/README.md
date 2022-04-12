@@ -42,3 +42,13 @@
 <div align="center"><p>Custom Scripts 1-11</p></div>
 <br>
 <div align="center"><a href="https://raw.githubusercontent.com/ZON3DEV/Releases/main/TrinityCore/WotLK/Custom/Release/Core_TC335_12.04.2022_RC1.7z">TC335_12.04.2022_RC1</a></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">Special Thanks at the <a href="https://github.com/TrinityCore/">TrinityCore</a> Developers & <a href="https://rochet2.github.io/downloads/">Rochet2</a> for some Scripts</div>
+<br>
