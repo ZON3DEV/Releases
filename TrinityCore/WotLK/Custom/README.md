@@ -1,5 +1,6 @@
 <div align="center"><img src="Docs/Images/BannerText.png"></img></div>
 <br>
+<div align="center"><img src="https://raw.githubusercontent.com/ZON3DEV/TC335_Custom/master/doc/Images/TC_Logo.png" width=35%></img></div></div>
 <br>
 <div align="center"><b>Custom Content</b></div>
 <br>
